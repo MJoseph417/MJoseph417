@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Matt Schutz
+- 👀 I’m interested in software engineering & cyber security
+- 🌱 I’m currently learning assembly language and computer architecture
+- 📫 Reach me at schutzmw3@gmail.com and connect with me on linked in!  https://www.linkedin.com/in/matthew-schutz-7a5448222/

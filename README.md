@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matt Schutz
-- 👀 I’m interested in software engineering & cyber security
-- 🌱 I’m currently learning assembly language and computer architecture
+- 👀 I’m interested in software engineering, distributed computing, MLOPs, and embedded.
+- 🌱 I’m currently taking courses in artificial intelligence, computational intelligence, software security, IOS app dev, and the first part of capstone. I am also doing research in the Scalable Data Science (SDS) lab at Mizzou, where I am working on human genome processing.
 - 📫 Reach me at schutzmw3@gmail.com and connect with me on linked in!  https://www.linkedin.com/in/matthew-schutz-7a5448222/
